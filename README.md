@@ -658,7 +658,3 @@ GigShield is the first gig insurance platform to combine **device behavioral fin
 - **2 Minute Video"** : https://drive.google.com/file/d/1T0DdWZWvkLqbJ9HojMkGn7TsEvHAvKfQ/view?usp=sharing
 
 ---
-
-*Built for Guidewire DEVTrails 2026. Coverage scope: income loss only. No vehicle, health, life, or accident coverage.*
-
-*Last updated: March 20, 2026 | Phase 1 Submission*
