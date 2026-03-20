@@ -620,9 +620,9 @@ GigShield is the first gig insurance platform to combine **device behavioral fin
 
 | Name | Role |
 |---|---|
-| [Allam Keerthana Chowdary] | Full-stack development (Next.js, Node.js, telemetry) |
-| [Molakalapalli Rishitha] | ML engineering (GigBrain, fraud detection, behavioral modeling) |
-| [Mettu Sathvika] | Product design, backend integration, claims UX |
+| Allam Keerthana Chowdary | Full-stack development (Next.js, Node.js, telemetry) |
+| Molakalapalli Rishitha | ML engineering (GigBrain, fraud detection, behavioral modeling) |
+| Mettu Sathvika | Product design, backend integration, claims UX |
 
 ---
 
@@ -654,10 +654,8 @@ GigShield is the first gig insurance platform to combine **device behavioral fin
 
 ## Links
 
-- **GitHub Repository:** []
-- **Architecture Diagrams:** [diagrams/architecture/](diagrams/architecture/)
-- **Anti-Spoofing Threat Model:** [docs/anti_spoofing_threat_model.md](docs/anti_spoofing_threat_model.md)
-- 2 Minute Video : 
+- **GitHub Repository:** https://github.com/rishithaa9/GigShield.git
+- **2 Minute Video"** : https://drive.google.com/file/d/1T0DdWZWvkLqbJ9HojMkGn7TsEvHAvKfQ/view?usp=sharing
 
 ---
 
